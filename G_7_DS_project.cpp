@@ -3,25 +3,6 @@
 
 */
 
-
-/*
-               ........Thank You For Using This  System........
-           Group member’s name                                            Id
-          1.Tadele Workie Mihretu                                   BDU1308433
-		  2. Simachew Gedefaw Chekol                                BDU1308736
-		  3. Kidanemariam mazengiaw                                BDU1307035
-          4.Ermias Sintayehu Deresse                                BDU1307028
-          5.brham Dessalegn Workie                                  BDU1307050
-          6.Meron Gebresilassie Bahru                               BDU1311637
-          7.Nuhamin Zelalem Getachew                                BDU1313860
-          8.Samrawit Fikremariam                                    BDU1308042
-
-               !    Departement of Software Engineering
-               !----------------------------------------------!
-
-*/
-
-
 #include <iomanip>//for size 
 #include<iostream>//for importing cin and cout key and others 
 #include<conio.h>//for exit and getch
